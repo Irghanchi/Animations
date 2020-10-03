@@ -32,15 +32,15 @@ class do(Scene):
         self.wait(10)
                 
 
-       # lst.add_updater(calpos)
-        #self.add(calpos)
-      #  self.add(nucleus)y
+    
 
-        #lst.clearupdaters()
+
+
+
 
         
         
-        
+   
 
 
 
